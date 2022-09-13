@@ -1,0 +1,1 @@
+This repo follows the tutorial from https://rsbh.dev/blog/rest-api-with-express-typescript
